@@ -7,5 +7,5 @@ urlpatterns = [
     path('like-add', views.add_like),
     path('comment-add', views.add_comment),
     path('post-add', views.add_post),
-    path('answer-add', views.add_answer),
+    #path('answer-add', views.add_answer),
 ]
